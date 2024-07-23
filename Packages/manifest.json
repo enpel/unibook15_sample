@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.harumak.upalette": "https://github.com/Haruma-K/uPalette.git?path=/Assets/uPalette",
     "com.unity.collab-proxy": "2.4.4",
     "com.unity.feature.2d": "2.0.1",
     "com.unity.ide.rider": "3.0.28",
